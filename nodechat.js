@@ -4,6 +4,8 @@
  * @param [in|out] client: telnet 127.0.0.1 9001
  * @return Description of returned value.
  * @author wefs_
+ * @web http://github.com/wefs
+ * twitter: wefs_
  */
 var net =require('net')
 var chatServer=net.createServer(),clientList=[]
