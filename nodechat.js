@@ -5,7 +5,6 @@
  * @return Description of returned value.
  * @author wefs_
  * @web http://github.com/wefs
- * twitter: wefs_
  */
 var net =require('net')
 var chatServer=net.createServer(),clientList=[]
